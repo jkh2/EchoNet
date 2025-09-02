@@ -80,7 +80,7 @@ This License automatically terminates if you violate any of its terms. Upon term
 
 ## GOVERNING LAW
 
-This License shall be governed by and construed in accordance with the laws of the United States and the State of [Your State], without regard to conflict of law principles.
+This License shall be governed by and construed in accordance with the laws of the United States and the State of [Colorado], without regard to conflict of law principles.
 
 ## ACCEPTANCE
 
