@@ -220,7 +220,7 @@ Open browser console (F12) to see detailed deployment logs and error messages.
 
 ## 📜 License
 
-This project is licensed under the **EchoNet Proprietary License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **EchoNet Proprietary License** - see the [LICENSE](license.md) file for details.
 
 ### Key License Terms
 
